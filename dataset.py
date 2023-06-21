@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 import sys
-sys.path.append("F:/Code/RANet-Submitted-to-IEEE-JSTARS-main")
+sys.path.append("F:/Code/")
 import os
 import cv2
 import pandas as pd
