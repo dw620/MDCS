@@ -1,7 +1,3 @@
-# RANet-Submitted-to-IEEE-JSTARS
-Relation-Attention Networks for Remote Sensing Scene Classification
-(This paper has been submitted to IEEE-JSTARS in 2021.)
-
 ## Usage
 
 1. Data preparation: `datasplit.py`
@@ -23,7 +19,6 @@ dataset|——train
 
 2. run `train.py` to train the model
 
-## Figs
 
 ![png](https://github.com/WangXin81/RANet-Submitted-to-IEEE-JSTARS/blob/main/1.png)
 
@@ -43,9 +38,6 @@ WHU RS19:
 http://captain.whu.edu.cn/repository.html
 
 
-Optimal31：
-
-http://crabwq.github.io/
 
 
 ## Environments
