@@ -25,7 +25,7 @@ dataset|——train
 
 ## Figs
 
-![fig](https://github.com/WangXin81/RANet-Submitted-to-IEEE-JSTARS/blob/main/fig.jpg)
+![png](https://github.com/WangXin81/RANet-Submitted-to-IEEE-JSTARS/blob/main/1.png)
 
 
 ## Datasets:
